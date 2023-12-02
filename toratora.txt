@@ -1,0 +1,13 @@
+id	url	text	rating	time_created	user
+PW70ZvdLqs3mvMnY5FgwZw	https://www.yelp.com/biz/tora-tora-sushi-san-diego?adjust_creative=ZwfsNy0f5rNp9z7rxwd_IA&hrid=PW70ZvdLqs3mvMnY5FgwZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZwfsNy0f5rNp9z7rxwd_IA	"This place a small casual counter service restaurant located in a shopping plaza. The inside is very modern and stylish.
+
+I ordered the Lemon Cilantro roll,..."	5	2023-07-27 18:36:01	glkaN0OoEHOgJqG_DZjmgw
+PW70ZvdLqs3mvMnY5FgwZw	https://www.yelp.com/biz/tora-tora-sushi-san-diego?adjust_creative=ZwfsNy0f5rNp9z7rxwd_IA&hrid=PW70ZvdLqs3mvMnY5FgwZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZwfsNy0f5rNp9z7rxwd_IA	"This place a small casual counter service restaurant located in a shopping plaza. The inside is very modern and stylish.
+
+I ordered the Lemon Cilantro roll,..."	5	2023-07-27 18:36:01	https://s3-media1.fl.yelpcdn.com/photo/8Af8fUj3EwHBUzqbVenNew/o.jpg
+PW70ZvdLqs3mvMnY5FgwZw	https://www.yelp.com/biz/tora-tora-sushi-san-diego?adjust_creative=ZwfsNy0f5rNp9z7rxwd_IA&hrid=PW70ZvdLqs3mvMnY5FgwZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZwfsNy0f5rNp9z7rxwd_IA	"This place a small casual counter service restaurant located in a shopping plaza. The inside is very modern and stylish.
+
+I ordered the Lemon Cilantro roll,..."	5	2023-07-27 18:36:01	LeAnh C.
+PW70ZvdLqs3mvMnY5FgwZw	https://www.yelp.com/biz/tora-tora-sushi-san-diego?adjust_creative=ZwfsNy0f5rNp9z7rxwd_IA&hrid=PW70ZvdLqs3mvMnY5FgwZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=ZwfsNy0f5rNp9z7rxwd_IA	"This place a small casual counter service restaurant located in a shopping plaza. The inside is very modern and stylish.
+
+I ordered the Lemon Cilantro roll,..."	5	2023-07-27 18:36:01	https://www.yelp.com/user_details?userid=glkaN0OoEHOgJqG_DZjmgw
