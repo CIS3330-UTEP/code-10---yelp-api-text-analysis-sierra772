@@ -240,7 +240,7 @@ for review in urban_rvws:
     sentiment_score = analyzer.polarity_scores(review)
     print('\n')
     print(review)
-    print(sentiment_score)
+    print('URBN Sushi score:', sentiment_score)
 
 tanuki_rvws = open('tanuki.txt')
 
@@ -248,7 +248,7 @@ for review in tanuki_rvws:
     sentiment_score = analyzer.polarity_scores(review)
     print('\n')
     print(review)
-    print(sentiment_score)
+    print('Tanuki score:',sentiment_score)
 
 otaa_rvws = open('ota.txt')
 
@@ -256,7 +256,7 @@ for review in otaa_rvws:
     sentiment_score = analyzer.polarity_scores(review)
     print('\n')
     print(review)
-    print(sentiment_score)
+    print('Sushi Ota score:',sentiment_score)
 
 kaki_rvws = open('kaki.txt')
 
@@ -264,7 +264,7 @@ for review in kaki_rvws:
     sentiment_score = analyzer.polarity_scores(review)
     print('\n')
     print(review)
-    print(sentiment_score)
+    print('Kaki Sushi score:',sentiment_score)
 
 tadokoro_rvws = open('tadokoro.txt')
 
@@ -272,7 +272,7 @@ for review in tadokoro_rvws:
     sentiment_score = analyzer.polarity_scores(review)
     print('\n')
     print(review)
-    print(sentiment_score)
+    print('Sushi Tadokoro score:',sentiment_score)
 
 tora_rvws = open('toratora.txt')
 
@@ -280,4 +280,4 @@ for review in tora_rvws:
     sentiment_score = analyzer.polarity_scores(review)
     print('\n')
     print(review)
-    print(sentiment_score)
+    print('Tora Tora Sushi score:',sentiment_score)
